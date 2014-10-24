@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<users>
+  <username>Anca</username>
+  <password_hash>40</password_hash>
+  <permisiune>0</permisiune>
+  
+  <username>Vasile</username>
+  <password_hash>69</password_hash>
+  <permisiune>1</permisiune>
+</users>

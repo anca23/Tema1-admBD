@@ -14,9 +14,16 @@ namespace Tema1
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            try
+            {
+
+                Application.EnableVisualStyles();
+                Application.SetCompatibleTextRenderingDefault(false);
+                Application.Run(new Form1());
+            }
+            catch {
+                MessageBox.Show("A aparut o eroare neasteptata! Programul se va inchide","Error");
+            }
         }
     }
 }

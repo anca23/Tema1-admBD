@@ -16,5 +16,24 @@ namespace Tema1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (BoxUsername.Text == null)
+            {
+                MessageBox.Show("Nu ati completat campul username", "Eroare");
+            }
+
+            if (BoxPassword.Text == null)
+            {
+                MessageBox.Show("Nu ati completat campul password", "Eroare");
+            }
+
+            if ((BoxUsername.Text!=null)&&(BoxPassword.Text!=null))
+            {
+                
+
+            }
+        }
     }
 }
