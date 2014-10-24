@@ -1,1 +1,8 @@
 C:\Users\Anca\Documents\GitHub\Tema1-admBD\Tema1\Tema1\bin\Debug\Tema1.exe.config
+C:\Users\Anca\Documents\GitHub\Tema1-admBD\Tema1\Tema1\bin\Debug\Tema1.exe
+C:\Users\Anca\Documents\GitHub\Tema1-admBD\Tema1\Tema1\bin\Debug\Tema1.pdb
+C:\Users\Anca\Documents\GitHub\Tema1-admBD\Tema1\Tema1\obj\Debug\Tema1.csprojResolveAssemblyReference.cache
+C:\Users\Anca\Documents\GitHub\Tema1-admBD\Tema1\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+C:\Users\Anca\Documents\GitHub\Tema1-admBD\Tema1\Tema1\obj\Debug\Tema1.csproj.GenerateResource.Cache
+C:\Users\Anca\Documents\GitHub\Tema1-admBD\Tema1\Tema1\obj\Debug\Tema1.exe
+C:\Users\Anca\Documents\GitHub\Tema1-admBD\Tema1\Tema1\obj\Debug\Tema1.pdb
