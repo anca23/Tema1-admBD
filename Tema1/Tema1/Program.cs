@@ -22,8 +22,8 @@ namespace PresentationLayer
                 Application.SetCompatibleTextRenderingDefault(false);
                 Application.Run(new Form1());
             }
-            catch {
-                MessageBox.Show("A aparut o eroare neasteptata! Programul se va inchide","Error");
+            catch(Exception ex) {
+                MessageBox.Show(ex.Message);
             }
         }
     }
