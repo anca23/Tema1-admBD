@@ -52,7 +52,6 @@
     </Compile>
     <Compile Include="IBusinessLayer.cs" />
     <Compile Include="IDataLayer.cs" />
-    <Compile Include="IPresentationLayer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -81,7 +80,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="users.xml" />
+    <Content Include="users.xml">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

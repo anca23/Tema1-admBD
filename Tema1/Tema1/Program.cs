@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BusinessLayer;
 
-namespace Tema1
+namespace PresentationLayer
 {
     static class Program
     {

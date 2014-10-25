@@ -1,4 +1,4 @@
-﻿namespace Tema1
+﻿namespace PresentationLayer
 {
     partial class Form1
     {
